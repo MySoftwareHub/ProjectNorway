@@ -1,0 +1,197 @@
+body
+{
+    background-color: rgb(40,40,40); 
+    color: white; 
+}
+
+h1
+{
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    color: white
+}
+
+h2
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+a
+{
+    margin-right: 100px;
+    color: white;
+}
+
+
+nav
+{
+    float: left;
+    width: 241px;
+}
+
+
+
+section
+{
+    height: 100px;
+}
+
+p
+{
+    color: white;
+}
+
+element1
+{
+	position: absolute;
+    right: 980px;
+    bottom: 350px;
+    z-index: 1;
+}
+
+element2
+{
+	position: absolute;
+    right: 430px;
+    bottom: 350px;
+    z-index: 1;
+}
+
+element3
+{
+	position: absolute;
+    right: -70px;
+    bottom: 855px;
+    z-index: 1;
+}
+
+
+element4
+{
+    position: absolute;
+    right: 150px;
+    bottom: 855px;
+    z-index: 1;
+
+}
+
+element5
+{
+    position: absolute;
+    right: 850px;
+    bottom: 500px;
+    z-index: 1;
+
+}
+
+
+element6
+{
+    position: absolute;
+    right: 850px;
+    bottom: 400px;
+    z-index: 1;
+
+}
+
+
+element7
+{
+    position: absolute;
+    right: 930px;
+    bottom: 300px;
+    z-index: 1;
+
+}
+
+element8
+{
+    position: absolute;
+    right: 950px;
+    bottom: 330px;
+    z-index: 1;
+}
+
+element9
+{
+    position: absolute;
+    right: 480px;
+    bottom: 330px;
+    z-index: 1;
+}
+
+element10
+{
+    position: absolute;
+    right: 1195px;
+    bottom: 220px;
+    z-index: 1;
+    line-height:10px;
+}
+
+element11
+{
+    position: absolute;
+    right: 1410px;
+    bottom: 550px;
+    z-index: 1;
+}
+
+element12
+{
+    position: absolute;
+    right: 1150px;
+    bottom: 560px;
+    z-index: 1;
+}
+
+element13
+{
+    position: absolute;
+    right: -50px;
+    bottom: 850px;
+    z-index: 1;
+}
+
+element14
+{
+    
+ position: absolute;
+    right: 1250px;
+    bottom: 170px;
+    z-index: 1;
+    line-height:10px;
+}
+
+element15
+{
+     position: absolute;
+    right: 1370px;
+    bottom: 520px;
+    z-index: 1;
+    
+}
+
+element16
+{
+     position: absolute;
+    right: 1130px;
+    bottom: 525px;
+    z-index: 1;
+    
+}
+
+
+
+
+
+
+#conteneur
+{
+    display: flex;
+}
